@@ -1,0 +1,5 @@
+This is a port of a project I did in C++ as part of a game competition.  I decided to implement it in Ruby to see if it would work faster.  Other than the menu, and some changes to the control scheme, I got the entire thing running within 24 hours.
+
+Try ruby editor.rb <levelname> to mess with the level, and ruby game.rb <levelname> to play it.
+
+It would be neat if you wanted to add a menu, or a scoring system.  Right now the game quits on gameover, which is a little boring.
